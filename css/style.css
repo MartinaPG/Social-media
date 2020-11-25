@@ -1,0 +1,154 @@
+.img1{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
+.img2{
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+.first-p{
+  position: absolute;
+  width: 20%;
+  left: 15%;
+  top:15%;
+}
+.p11{
+  padding: 0;
+  margin: 0;
+  font-family: 'Spartan', sans-serif;
+  font-weight: 700;
+  color: hsl(300, 43%, 22%);
+  font-size: 3rem;
+}
+.p12{
+  padding: 0;
+  padding-top: 10px;
+  margin: 0;
+  font-family: 'Spartan', sans-serif;
+  font-weight: 500;
+  color: hsl(303, 10%, 53%);
+  font-size: 1rem;
+}
+.second-p{
+  position: absolute;
+  width: 30%;
+  right: 15%;
+  top:15%;
+}
+.firststar{
+  position: relative;
+  margin: 0;
+  padding: 15px;
+  width:70%;
+  border-radius: 15px;
+  background-color: hsl(300, 24%, 96%);
+}
+.secondstar{
+  position: relative;
+  left: 10%;
+  top:15px;
+  margin: 0;
+  padding: 15px;
+  width:70%;
+  border-radius: 15px;
+  background-color: hsl(300, 24%, 96%);
+}
+.thirdstar{
+  position: relative;
+  left: 20%;
+  top:30px;
+  margin: 0;
+  padding: 15px;
+  width:70%;
+  border-radius: 15px;
+  background-color: hsl(300, 24%, 96%);
+}
+.p21{
+  margin-left: 15px;
+}
+.p22{
+  margin-left: 15px;
+  font-family: 'Spartan', sans-serif;
+  font-weight: 700;
+  color: hsl(300, 43%, 22%);
+}
+.third-p{
+  position: absolute;
+  bottom:15%;
+  left: 15%;
+  right: 15%;;
+  padding: 0;
+}
+.firstperson{
+  position: relative;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  height: 25vh;
+  width: 30%;
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+}
+.secondperson{
+  position: relative;
+  display: inline-block;
+  top: 15px;
+  margin-left: 4.5%;
+  margin-right: 4.5%;
+  height: 25vh;
+  width: 30%;
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+}
+.thirdperson{
+  position: relative;
+  display: inline-block;
+  top: 30px;
+  float:right;
+  height: 25vh;
+  width: 30%;
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+}
+.colton{
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+}
+.d31{
+  position: relative;
+  height: 40px;
+  top:30px;
+  left: 35px;
+}
+.d311{
+  display:inline-block;
+  position: absolute;
+  line-height: 5px;
+  padding-left: 30px;
+
+}
+.p31{
+  font-family: 'Spartan', sans-serif;
+  font-weight:500;
+  font-size: 1rem;
+  color: white;
+
+}
+.p32{
+  font-family: 'Spartan', sans-serif;
+  font-weight: 500;
+  font-size: 1rem;
+  color: hsl(333, 80%, 67%);
+}
+.p33{
+  padding: 10px;
+  width: 80%;
+  margin: auto;
+  margin-top: 60px;
+  font-family: 'Spartan', sans-serif;
+  font-wight: 400;
+  color: white;
+}
