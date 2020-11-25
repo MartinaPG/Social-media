@@ -76,6 +76,8 @@
 }
 .third-p{
   position: absolute;
+  display: flex;
+  justify-content:space-between ;
   bottom:15%;
   left: 15%;
   right: 15%;;
@@ -84,8 +86,6 @@
 .firstperson{
   position: relative;
   display: inline-block;
-  padding: 0;
-  margin: 0;
   height: 25vh;
   width: 30%;
   background-color: hsl(300, 43%, 22%);
@@ -95,19 +95,15 @@
   position: relative;
   display: inline-block;
   top: 1vh;
-  margin-left: 4.5%;
-  margin-right: 2.%;
   height: 25vh;
   width: 30%;
-  background-color: red;
+  background-color:hsl(300, 43%, 22%);
   border-radius: 10px;
 }
 .thirdperson{
   position: relative;
   display: inline-block;
   top: 2vh;
-  margin-right: 0;
-  margin-left:2%;
   height: 25vh;
   width: 30%;
   background-color: hsl(300, 43%, 22%);
